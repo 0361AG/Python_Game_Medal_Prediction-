@@ -8,7 +8,9 @@ By the end of this tutorial, you'll have a working machine learning project usin
 The general structure of this project follows these machine learning steps:
 
 Form a hypothesis: What factors might influence the number of medals a country wins?
+
 Find and explore the data: Work with Olympic datasets to extract relevant information.
+
 Reshape the data: If needed, modify the data to predict the target variable (number of medals).
 Clean the data: Prepare the data to be used for machine learning.
 Pick an error metric: Choose a metric to measure the model’s performance.
