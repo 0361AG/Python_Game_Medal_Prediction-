@@ -12,11 +12,17 @@ Form a hypothesis: What factors might influence the number of medals a country w
 Find and explore the data: Work with Olympic datasets to extract relevant information.
 
 Reshape the data: If needed, modify the data to predict the target variable (number of medals).
+
 Clean the data: Prepare the data to be used for machine learning.
+
 Pick an error metric: Choose a metric to measure the model’s performance.
+
 Split the data: Separate the data into training and testing sets.
+
 Train a model: Use machine learning techniques to train a model that predicts the number of medals.
+
 Evaluate the model: Assess how well the model performs using the chosen error metric.
+
 Installation and Setup
 To follow this project, ensure you have the following software and libraries installed locally:
 
