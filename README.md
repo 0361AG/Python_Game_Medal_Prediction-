@@ -2,7 +2,7 @@
 # Olympic Medal Prediction:Machine Learning Project
 This project walks you through the full process of building a beginner machine learning project. The goal is to predict the number of medals a country will win based on historical and current data from the Olympic Games.
 
-By the end of this tutorial, you'll have a working machine learning project using Python and Jupyter, covering steps such as forming a hypothesis, preparing data, training the model, and evaluating the model's performance.
+Here we are working on machine learning project using Python and Jupyter, covering steps such as forming a hypothesis, preparing data, training the model, and evaluating the model's performance.
 
 # Project Steps
 The general structure of this project follows these machine learning steps:
